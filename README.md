@@ -1,2 +1,2 @@
-# Atividade-de-Inform-tica-Aplicada-de-Grsficos-
+# Atividade-de-Inform-tica-Aplicada-de-Graficos-
 Atividade das 5 questões para formular gráfico.
